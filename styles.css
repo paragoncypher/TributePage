@@ -1,0 +1,65 @@
+html {
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 10rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 5rem;
+}
+
+h1, h2 {
+  font-family: 'Road Rage', cursive;
+}
+
+p {
+  font-family: 'Special Elite', cursive;
+  font-size: 1.5rem;
+}
+
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  height: auto:
+  align-items: center;
+}
+
+.quote {
+  text-align: center;
+  color: red;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: .85rem;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+.tribute-link {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: red;
+}
+
+footer a:hover {
+  color: black;
+}
